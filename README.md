@@ -8,7 +8,7 @@
 
 | Type | Description |
 |:--------|:-------------|
-| feact | 새 기능 추가 |
+| feat | 새 기능 추가 |
 | fix | 버그 수정 |
 | refactor | 코드 리팩토링 |
 | docs | 문서 추가 또는 수정 |
