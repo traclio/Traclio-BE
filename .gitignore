@@ -1,0 +1,76 @@
+# ==========================================
+# macOS System Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon_
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ==========================================
+# Python (Cache, Build & Dist)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ==========================================
+# Virtual Environment (.venv)
+# ==========================================
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================================
+# Local SQLite Database (Traclio DB)
+# ==========================================
+*.db
+*.db-journal
+*.db-wal
+*.sqlite3
+
+# ==========================================
+# Environments & Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Editor & IDEs (VS Code, PyCharm 등)
+# ==========================================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
